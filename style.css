@@ -1,0 +1,68 @@
+/* footer{
+    background-color: rgb(206, 208, 213);
+    /* padding-left: auto; */
+    /* color: white;
+   
+   left: 0;
+   bottom: 0;
+   width: 100%;
+  
+   text-align: center;
+} */ */
+/* .downcontainer{
+    display: flex;
+    margin-left: 20%;
+    color: black;
+    text-align: center;
+    background-color: rgb(206, 208, 213);
+    
+}
+.nav-item{
+    padding-right: 20px;
+}
+
+.row1{
+    /* padding: 30px 10px; */
+    /* margin: 40px;
+    text-align: center;
+    
+}
+.lists{
+      padding: auto;
+}
+
+.foot{
+    padding: 30px;
+}
+
+.bi{
+    padding: 10px;
+    /* size-adjust: 20px; */
+    
+/* }
+.form{
+    margin: 5% 35%;
+}
+@media only screen and (max-width: 620px) {
+    .downcontainer, footer{
+      width: 100%;
+      padding: 10px; */ 
+      /* margin: 10px; The width is 100%, when the viewport is 800px or smaller */
+    /* } */
+
+    /* *{
+        margin: 5px;
+    }
+  }
+  @media (max-width: 768px) {
+    .bi{
+      float: right;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .row1 {
+      float: right;
+    }
+  } */
+   
